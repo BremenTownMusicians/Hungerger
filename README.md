@@ -39,5 +39,9 @@ then you should be able to see the following info in the terminal:
 
 finally you can land on our homepage by entering http://localhost:xxxx/ in the browser (we prefer Chrome or Firefox).
 
+## Demo Link
+Hungerger Demo Link:
+http://16.170.86.234:5000/
+
 ### Note
 If you find any issues or have some suggestions any time, please feel free to submit a request on our repositoty page. We will address the issue as soon as possible.
