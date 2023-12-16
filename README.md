@@ -43,5 +43,8 @@ finally you can land on our homepage by entering http://localhost:xxxx/ in the b
 Hungerger Demo Link:
 http://16.170.86.234:5000/
 
+Hungerger Admin Panel Link:
+http://16.170.86.234:5001/
+
 ### Note
 If you find any issues or have some suggestions any time, please feel free to submit a request on our repositoty page. We will address the issue as soon as possible.
